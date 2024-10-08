@@ -1,0 +1,14 @@
+sum
+concat
+reverse
+fizzbuzz
+modulo
+concatNum
+ishIfy
+double_num
+nothing
+return_10
+sub_str
+reverse_int
+fact
+remove_cat

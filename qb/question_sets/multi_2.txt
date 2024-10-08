@@ -1,0 +1,20 @@
+Which of the following is a correct way to assign a value to a variable in Python? a) x = 5 b) x == 5 c) 5 = x d) x : 5
+What will be the output of the following code? x = 5; print(x + "2") a) 7 b) 52 c) TypeError d) None
+Which of the following is a valid Python comment? a) comment/ b) // comment c) # comment d) /* comment */
+What is the correct way to check if two variables refer to the same object in memory? a) x is y b) x == y c) x.equals(y) d) x isEquals y
+Which keyword is used to define a function in Python? a) method b) func c) def d) function
+What is the result of the expression 2 + 3 * 4? a) 20 b) 14 c) 18 d) 9
+Which data type is used to represent a sequence of characters in Python? a) int b) str c) char d) string
+What will be the output of the following code? x = "Hello, World!"; print(x[7:]) a) "Hello" b) "World" c) "Hello, World!" d) "World!"
+Which of the following is not a valid way to create a Python list? a) [1, 2, 3] b) list(1, 2, 3) c) list(range(1, 4)) d) [x for x in range(1, 4)]
+Which operator is used for exponentiation in Python? a) ^ b) ** c) // d) %
+What will be the value of x after executing the following code? x = [1, 2, 3] x.append(4) a) [1, 2, 3, 4] b) [4, 3, 2, 1] c) [1, 2, 3] d) Error
+What does the "break" statement do in a loop? a) Ends the program execution. b) Continues to the next iteration of the loop. c) Skips the rest of the code block and continues after the loop. d) Terminates the loop and transfers control to the next statement after the loop.
+Which function can be used to get the length of a list or a string in Python? a) length() b) size() c) len() d) count()
+What will be the output of the following code? x = [1, 2, 3]; y = x; y.append(4); print(x) a) [1, 2, 3] b) [4] c) [1, 2, 3, 4] d) Error
+Which method is used to remove an item from a Python list by its value? a) pop() b) remove() c) delete() d) extract()
+What will be the output of the following code? x = (1, 2, 3); print(type(x)) a) list b) tuple c) set d) dict
+Which of the following is not a valid Python loop? a) for b) while c) repeat d) do...while
+How can you open a file named "data.txt" in read mode in Python? a) file = open("data.txt", "read") b) file = open("data.txt", "w") c) file = open("data.txt", "r") d) file = open("data.txt")
+What will be the output of the following code? x = True; y = False; print(x and y) a) True b) False c) None d) Error
+Which module in Python provides support for working with dates and times? a) time b) datetime c) dateutil d) calendar

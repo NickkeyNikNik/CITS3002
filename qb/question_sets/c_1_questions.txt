@@ -1,0 +1,14 @@
+Write a C function called "int sum(int a, int b)" that sums a and b.
+Write a C function called "char[] concat(char[] str_1, char[] str_2)" that concatenates two strings.
+Write a C function called "char[] reverse(char[] to_reverse)" that reverses a string.
+Write a C function called "char[] fizzbuzz(int n)" that returns "Fizz" if n is divisible by 3, "Buzz" if n is divisible by 5, "FizzBuzz" if divisible by both, or n if neither.
+Write a C function called "int modulo(int m, int n)" that returns the modulo of m%n
+Write a C function called "char[] concatNum(char[] str_1, int n)" that concats int n to the end of str_1 with a space in between.
+Write a C function called "char[] ishIfy(char[] to_ish_ify)" that adds "ish" to the end of every word in the provided string.
+Write a C function called "double double_num(int n)" that doubles n and returns as a float.
+Write a C function called "int nothing(int n)" that returns int n.
+Write a C function called "int return_10(char[] variable_1, char[] variable_2)" that returns 10 [EXTRA CHALLENGING].
+Write a C function called "char[] sub_str(char[] test_str,int start,int end)" that takes a substring of test_str from start (excludsive) to end (inclusive).
+Write a C function called "int reverse_int(int n)" that reverses the digits of n.
+Write a C function called "int fact(int n)" that returns the factorial of n.
+Write a C function called "char[] remove_cat(char[] test_str)" that removes the instances of "cat" in test_str.

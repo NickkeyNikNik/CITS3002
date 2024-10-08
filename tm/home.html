@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>CITS3002 Project</title>
+    <style>
+        .topblock {
+            border: 1px solid black;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        .question-box {
+            border: 1px solid black;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>CITS3002 Project</h1>
+    <div class='topblock'>
+        <h2>Welcome {{username}}!</h2>
+        <p>Your attempted status is: {{attempted}}</p>
+        <p>Your score is: {{score}}</p>
+    </div>
+
+    <div class='topblock'>
+        <h1>Question Set A</h1>
+        {{A_QB_QUESTIONS}}
+    </div>
+
+    <div class='topblock'>
+        <h1>Question Set B</h1>
+        {{B_QB_QUESTIONS}}
+    </div>
+</body>
+{{SCRIPT}}
+</html>

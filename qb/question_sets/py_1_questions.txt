@@ -1,0 +1,14 @@
+Write a Python function called "sum(a, b)" that sums a and b.
+Write a Python function called "concat(str_1, str_2)" that concatenates two strings.
+Write a Python function called "reverse(to_reverse)" that reverses a string.
+Write a Python function called "fizzbuzz(n)" that returns "Fizz" if n is divisible by 3, "Buzz" if n is divisible by 5, "FizzBuzz" if divisible by both, or n if neither.
+Write a Python function called "modulo(m, n)" that returns the modulo of m%n
+Write a Python function called "concatNum(str_1, n)" that concats int n to the end of str_1 with a space in between.
+Write a Python function called "ishIfy(to_ish_ify)" that adds "ish" to the end of every word in the provided string.
+Write a Python function called "double(n)" that doubles n and returns as a float.
+Write a Python function called "nothing(n)" that returns n without changing type.
+Write a Python function called "return_10(variable_1, variable_2)" that returns 10 [EXTRA CHALLENGING].
+Write a Python function called "sub_str(test_str,start,end)" that takes a substring of test_str from start (excludsive) to end (inclusive).
+Write a Python function called "reverse_int(n)" that reverses the digits of n.
+Write a Python function called "fact(n)" that returns the factorial of n.
+Write a Python function called "remove_cat(test_str)" that removes the instances of "cat" in test_str.

@@ -1,0 +1,20 @@
+Which of the following is the correct syntax for declaring an integer variable in C? a) int x; b) integer x; c) var x; d) x int;
+What will be the output of the following code? int x = 5; printf("%d", x + 2); a) 5 b) 7 c) 52 d) None
+Which symbol is used to indicate a single-line comment in C? a) // b) /* c) # d) ---
+What is the size of the "int" data type in C on a 32-bit system? a) 2 bytes b) 4 bytes c) 8 bytes d) It varies based on the system.
+Which keyword is used to define a function in C? a) method b) func c) def d) void
+What is the result of the expression 5 / 2 in C? a) 2 b) 2.5 c) 3 d) 2.0
+Which data type is used to store a single character in C? a) char b) string c) character d) chr
+What will be the output of the following code? char x[] = "Hello, World!"; printf("%s", x + 7); a) Hello b) World c) Hello, World! d) World!
+Which of the following is not a valid way to represent a string in C? a) "Hello" b) 'Hello' c) char x[] = "Hello"; d) char x[6] = {'H', 'e', 'l', 'l', 'o', '\0'};
+Which operator is used for the logical AND operation in C? a) && b) || c) ! d) &
+What will be the value of x after executing the following code? int x = 5; x++; a) 5 b) 6 c) 4 d) Error
+What does the "break" statement do in a loop in C? a) Ends the program execution. b) Continues to the next iteration of the loop. c) Skips the rest of the code block and continues after the loop. d) Terminates the loop and transfers control to the next statement after the loop.
+Which library needs to be included to use the printf() function in C? a) stdio.h b) math.h c) string.h d) stdlib.h
+What will be the output of the following code? int x = 5; int *y = &x; printf("%d", *y); a) 5 b) 10 c) 0 d) Error
+How do you declare a constant variable in C? a) const x; b) constant x; c) #define x; d) const int x;
+What will be the output of the following code? int x = 10; if (x > 5) { printf("Hello"); } else { printf("World"); } a) Hello b) World c) Hello World d) Error
+Which of the following is not a valid C loop? a) for b) while c) repeat d) do...while
+How do you include a header file named "math.h" in a C program? a) include <math.h> b) import math.h c) include "math.h" d) import "math.h"
+What will be the output of the following code? int x = 5; int y = 0; y = (x == 5) ? 10 : 20; printf("%d", y); a) 5 b) 10 c) 20 d) Error
+How do you declare a function that takes no arguments and returns an integer in C? a) int function() b) function(int) c) void function() d) int function(void)

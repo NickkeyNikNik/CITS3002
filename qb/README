@@ -1,0 +1,7 @@
+After compiling the QB code the server can be run using one of the following commands.
+
+To run a QB for C based questions:
+java qbServer 30002 1 question_sets/multi_1.txt question_sets/mutli_1_answers.txt question_sets/c_1_questions.txt question_sets/c_1_function_name.txt question_sets/c_1_args.txt question_sets/c_1_answers.txt question_sets/c_1_out_type.txt
+
+To run a QB for Python based questions:
+java qbServer 30003 2 question_sets/multi_2.txt question_sets/mutli_2_answers.txt question_sets/py_1_questions.txt question_sets/py_1_function_name.txt question_sets/py_1_args.txt question_sets/py_1_answers.txt

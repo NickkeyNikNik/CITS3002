@@ -1,0 +1,15 @@
+08,INCORRECT,3,0,What is the answer? (d),https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic3.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2020%2F04%2FRickroll-Wide.jpg&f=1&nofb=1&ipt=86779abcf01197b87edcc3525b5e47defc7e1ceb651317cdd51f6784f9af5bf7&ipo=images
+07,INCORRECT,3,0,Pick an answer. (a), 
+05,INCORRECT,3,0,Pick an answer. (d), 
+00,INCORRECT,3,0,What is the answer? (a), 
+04,INCORRECT,3,0,What is the answer? (c), 
+04,CORRECT,2,1,"Write a C function called sum(i, j) that sums i and j.","1,2	3	3"
+06,CORRECT,2,1,"Write a C function called sum(m, n) that sums m and n.","1,2	3	3"
+08,INCORRECT,3,1,"Write a C function called sum(q, r) that sums q and r.", 
+01,INCORRECT,3,1,"Write a C function called sum(c, d) that sums c and d.", 
+02,INCORRECT,1,1,"Write a C function called sum(e, f) that sums e and f.","1,2	RuntimeException	3"
+01,INCORRECT,1,2,"Write a Python function called sum(c, d) that sums c and d.","1,2		3"
+09,CORRECT,2,2,"Write a Python function called sum(s, t) that sums s and t.","1,2	3	3"
+07,INCORRECT,3,2,"Write a Python function called sum(o, p) that sums o and p.", 
+04,INCORRECT,3,2,"Write a Python function called sum(i, j) that sums i and j.", 
+06,INCORRECT,3,2,"Write a Python function called sum(m, n) that sums m and n.", 

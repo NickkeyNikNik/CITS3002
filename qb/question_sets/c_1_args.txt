@@ -1,0 +1,40 @@
+0,1,2
+0,6,-2
+1,"test","case"
+1,"with a"," space"
+2,"test"
+2,"second test"
+2,"third test"
+3,3
+3,5
+3,15
+3,2
+4,8,3
+4,7,7
+4,2,5
+5,"test",1
+5,"string",-7
+5,"CITS",3002
+6,"test string"
+6,"Computer Networking"
+7,2
+7,3.2
+7,0
+8,2
+8,3
+8,7
+9,"test","strings"
+9,"test","8"
+9,"edge","case"
+9,"14.0","2.9"
+10,"test string",2,6
+10,"word",-1,4
+11,7
+11,14
+11,127
+12,3
+12,4
+12,5
+13,"test string"
+13,"with word cat in it"
+13,"concatenation"
